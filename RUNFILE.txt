@@ -1,0 +1,2 @@
+python3 Server.py 2000
+python3 ClientLauncher.py 127.0.0.1 2000 20000 movie.Mjpeg
